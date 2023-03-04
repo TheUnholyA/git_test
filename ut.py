@@ -1,1 +1,1 @@
-print ("hello Sumunglam")
+print ("hello Sumangalam")
